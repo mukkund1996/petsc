@@ -1,0 +1,5 @@
+#Ignore the dSYM files
+*.dSYM
+
+#Ignore the output files
+output/
